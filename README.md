@@ -11,10 +11,10 @@ Trilha sonora de fundo para uma experiência imersiva.
 
 ## Tecnologias Utilizadas:
 
-Vue.js: Framework JavaScript para construção de interfaces de usuário.
-Axios: Cliente HTTP para fazer requisições à API.
-PokéAPI e Digimon API: APIs que fornecem dados sobre Pokémons e Digimons, respectivamente.
-HTML5 e CSS3: Linguagens padrão da web para estruturação e estilização de páginas.
+#### Vue.js: Framework JavaScript para construção de interfaces de usuário.
+#### Axios: Cliente HTTP para fazer requisições à API.
+#### PokéAPI e Digimon API: APIs que fornecem dados sobre Pokémons e Digimons, respectivamente.
+#### HTML5 e CSS3: Linguagens padrão da web para estruturação e estilização de páginas.
 
 ## Project setup
 ```
